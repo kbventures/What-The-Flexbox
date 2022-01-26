@@ -16,7 +16,7 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 }
 
 /* Colours for each box */
-.box1 { background:#1abc9c;}
+.box1 { background:#1abcfc;}
 .box2 { background:#3498db;}
 .box3 { background:#9b59b6;}
 .box4 { background:#34495e;}
@@ -32,5 +32,6 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 .container {
   display:flex;
   border:10px solid goldenrod;
-  height:100vh;
+  height: 100vh; 
+
 }
